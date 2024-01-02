@@ -6,7 +6,7 @@ Hecho en JavaScript, con Node.js usando express, MongoDB como una base de datos 
 
 Desde VSCode o un terminal, en el directorio de instalación, tipea el comando ´node app.js´ para ejecutar el programa.
 
-Uso API
+# Uso API
 
 La API posee las siguientes rutas y funcionalidades:
 
